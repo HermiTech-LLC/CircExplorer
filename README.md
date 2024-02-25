@@ -1,6 +1,8 @@
 
 # Circuit Simulator
 
+![gif](https://github.com/LoQiseaking69/CircExplorer/blob/main/ASSETS/CircE.gif)
+
 This application is a circuit simulator built using wxPython. It allows users to save and load circuit diagrams, and it demonstrates basic integration with SQLite and matplotlib for database operations and rendering, respectively.
 
 ## Installation
