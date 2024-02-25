@@ -35,4 +35,4 @@ python circuit_simulator.py
 
 ## License
 
-This project is open-source and available under the GNU v3 License seen [here](
+This project is open-source and available under the GNU v3 License seen [here](https://github.com/LoQiseaking69/CircExplorer/blob/main/LICENSE)
