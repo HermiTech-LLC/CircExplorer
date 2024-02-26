@@ -44,7 +44,7 @@ The GUI will open, presenting options to design, save, and retrieve circuit diag
 
 ## Contributing
 
-Contributions to Circuit Simulator are welcome! Whether it's bug fixes, feature additions, or improvements in documentation, your help is appreciated. Please refer to the `CONTRIBUTING.md` file for guidelines.
+Contributions to Circuit Simulator are welcome! Whether it's bug fixes, feature additions, or improvements in documentation, your help is appreciated. Please refer to the `improve.md` file for guidelines.
 
 ## License
 
