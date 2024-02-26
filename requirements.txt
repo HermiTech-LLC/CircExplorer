@@ -2,3 +2,6 @@ wxPython
 python-dotenv
 matplotlib
 requests
+aiohttp
+SQLAlchemy
+numpy
