@@ -2,7 +2,7 @@
 
 ![gif](https://github.com/LoQiseaking69/CircExplorer/blob/main/ASSETS/CircE.gif)
 
-Circuit Simulator is an advanced, user-friendly circuit design application built using wxPython. It not only allows users to create, save, and load intricate circuit diagrams but also integrates with the Octopart API for real-time electronic component details. The application leverages SQLite for robust database operations and Matplotlib for sophisticated rendering of circuit diagrams, making it an ideal tool for both hobbyists and professional electronic designers.
+This CircExplorer is an advanced work in progress; user-friendly, circuit design application built using wxPython. It not only allows users to create, save, and load intricate circuit diagrams but also integrates with the Octopart API for real-time electronic component details. The application leverages SQLite for robust database operations and Matplotlib for sophisticated rendering of circuit diagrams, making it an ideal tool for both hobbyists and professional electronic designers.
 
 ## Installation
 
