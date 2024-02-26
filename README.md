@@ -2,7 +2,7 @@
 
 ![gif](https://github.com/LoQiseaking69/CircExplorer/blob/main/ASSETS/CircE.gif)
 
-This application is an advanced circuit simulator built using wxPython. It features the capability to save and load circuit diagrams, integrate with the Octopart API for component details, and demonstrates integration with SQLite for database operations and matplotlib for rendering circuit diagrams.
+This application is a circuit renderer, built using wxPython. It features the capability to save and load circuit diagrams, integrate with the Octopart API for component details, and demonstrates integration with SQLite for database operations and matplotlib for rendering circuit diagrams.
 
 ## Installation
 
