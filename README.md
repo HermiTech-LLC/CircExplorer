@@ -48,4 +48,4 @@ Contributions to Circuit Simulator are welcome! Whether it's bug fixes, feature 
 
 ## License
 
-Circuit Simulator is released under the GNU General Public License v3.0. For more details, see the [license file](https://github.com/LoQiseaking69/CircExplorer/blob/main/LICENSE).
+This CircExplorer assumes legal liability statutes released under the GNU General Public License v3.0. For more details, see the [license file](https://github.com/LoQiseaking69/CircExplorer/blob/main/LICENSE).
