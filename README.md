@@ -1,4 +1,4 @@
-# Circuit Simulator
+# CircExplorer/ Circuit Simulator 
 
 ![gif](https://github.com/LoQiseaking69/CircExplorer/blob/main/ASSETS/CircE.gif)
 
