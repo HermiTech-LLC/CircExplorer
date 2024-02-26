@@ -1,3 +1,4 @@
 wxPython
+python-dotenv
 matplotlib
 requests

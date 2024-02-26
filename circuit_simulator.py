@@ -11,6 +11,9 @@ import numpy as np
 from sqlalchemy import create_engine, Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
+from dotenv import load_dotenv
+
+load_dotenv()
 
 API_KEY = os.environ.get("OCTOPART_API_KEY")
 logging.basicConfig(filename='circuit_simulator.log', level=logging.DEBUG, 
